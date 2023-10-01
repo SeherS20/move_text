@@ -28,4 +28,13 @@ canvas{
     border: 5px solid white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px  rgb(232, 175, 228);
+    
+    
+}
+video{
+    border-radius: 100px;
+    border-color: #735369;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px  rgb(212, 228, 208);
+    
 }
